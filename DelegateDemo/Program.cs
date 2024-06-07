@@ -18,10 +18,6 @@
 
         }
 
-        class Demo
-        {
-            GreetingDelegate greeting = new GreetingDelegate(Greet);
-            greeting("Hi");
-        }
+ 
     }
 }
